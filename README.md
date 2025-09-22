@@ -14,9 +14,10 @@
    I’m currently working on several ETL processes, with different focuses on modularity, testing, security, governance. I'm also getting into cloud services.
 
 💡 Featured Projects  
-- [Fuel prices Argentina vs other factors](https://github.com/Leandro-Martinezz/ETL-fuel-prices-and-variables-Arg): Relationship between the historical price of crude oil, the Dollar/ARS exchange rate, fuel prices, and consumption in Argentina country.
+- [ETL - Fuel prices Argentina vs other factors](https://github.com/Leandro-Martinezz/ETL-fuel-prices-and-variables-Arg): Relationship between the historical price of crude oil, the Dollar/ARS exchange rate, fuel prices, and consumption in Argentina country.
+- [Airflow-ETL-pipeline](https://github.com/Leandro-Martinezz/Airflow-ETL-pipeline): This is an ETL project designed to consume data from the Dog API, process it, and load it into a PostgreSQL database. The entire workflow is orchestrated using Apache Airflow.
 - [Life Expectancy Analysis](https://github.com/Leandro-Martinezz/life-expectancy-analysis): Exploratory data analysis and visualization of global life expectancy data. Includes data cleaning, charts, and correlation analysis.
-- [Countries Analysis - APIs](https://github.com/Leandro-Martinezz/countries-APIs): This project demonstrates how to interact with a public REST API to retrieve, process, and explore country-level data using Python.
+- 
 - More projects coming soon...
 
 ⚡ Hobbies  
